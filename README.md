@@ -62,8 +62,13 @@ This dataset captures 148,770 total ride bookings across various vehicle types a
 
 🏆 Customer Loyalty – Top 5 customers alone contribute over 20K+ booking value, reinforcing the importance of retaining high-value riders.
 
+## 📜 Some more insights:
 ✅ Over 93K rides were completed, while cancellations from drivers and customers together accounted for nearly 38K rides.
+
 ✅ UPI and Cash emerged as the most preferred modes of payment, followed by Uber Wallet & Cards.
+
 ✅ Driver Ratings – The majority of customers rated between 4.0 to 4.5, showing positive driver performance.
+
 ✅ Vehicle Type Usage – Auto and Go Sedan rides dominated total ride distance, while Bike rides also had a significant share.
+
 ✅ The Average Booking Value stood at ₹508.14, with an Avg VTAT of 8.42 mins, indicating healthy turnaround times.
