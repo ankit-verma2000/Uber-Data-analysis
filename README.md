@@ -62,6 +62,51 @@ This dataset captures 148,770 total ride bookings across various vehicle types a
 
 🏆 Customer Loyalty – Top 5 customers alone contribute over 20K+ booking value, reinforcing the importance of retaining high-value riders.
 
+## 💰 Revenue Distribution by Payment Method:
+
+UPI: Highest contributor (~40% of total revenue)
+
+Cash: Second highest (~25% of total revenue)
+
+Credit Card: ~15% of total revenue
+
+Uber Wallet: ~12% of total revenue
+
+Debit Card: ~8% of total revenue
+
+## 🚫 Cancellation Patterns
+Customer Cancellation Reasons:
+
+Wrong Address: 22.5%
+
+Driver Issues: 22.4%
+
+Driver Not Moving: 22.2%
+
+Change of Plans: 21.9%
+
+App Issues: 11.0%
+
+Driver Cancellation Reasons:
+
+Capacity Issues: 25.0%
+
+Customer Related Issues: 25.3%
+
+Personal & Car Issues: 24.9%
+
+Customer Behavior: 24.8%
+
+## ⭐ Rating Analysis:
+
+Customer Ratings: Consistently high across all vehicle types (4.40-4.41)
+
+Driver Ratings: Slightly lower but stable (4.23-4.24)
+
+Highest Rated: Go Sedan (4.41 customer rating)
+
+Most Satisfied Drivers: UberXL category (4.24 rating)
+
 ## 📜 Some more insights:
 ✅ Over 93K rides were completed, while cancellations from drivers and customers together accounted for nearly 38K rides.
 
